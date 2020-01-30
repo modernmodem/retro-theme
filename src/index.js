@@ -2,7 +2,7 @@ module.exports = {
   getThemes () {
     return {
       'plugin-retro-mode': {
-        cssPath: 'styles/light.css',
+        cssPath: 'styles/retro.css',
         darkMode: false
       }
     }
